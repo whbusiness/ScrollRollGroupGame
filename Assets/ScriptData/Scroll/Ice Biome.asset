@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0fe6f7c511d4643a09d7ba9a594b37, type: 3}
+  m_Name: Ice Biome
+  m_EditorClassIdentifier: 
+  m_presetName: Ice
+  m_sprite: {fileID: -2066236980, guid: f923f7660e829054f8700ca456bd7d36, type: 3}
+  m_binderMaterial: {fileID: 2100000, guid: 7f62de09b3b251842a80e61b552b78ef, type: 2}
+  m_endCapMaterial: {fileID: 2100000, guid: 7f62de09b3b251842a80e61b552b78ef, type: 2}
+  m_bodyMaterial: {fileID: 2100000, guid: 7f62de09b3b251842a80e61b552b78ef, type: 2}
+  m_physicMaterial: {fileID: 0}
+  m_biomeStart: 0
+  m_biomeEnd: 0
+  m_biomePreTimeStart: 0
+  m_biomeTimeStart: 0
+  m_biomePostTimeStart: 0

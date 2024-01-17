@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI/LVL_MENU_MAIN.unity
+    guid: cd235a07ae7eadb40b9e21756db53cb1
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/LVL_DUMMY.unity
+    guid: 00402438686547547bf65379132b9548
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/LVL_LOBBY.unity
+    guid: e4fb23c5d36b4ae45afda85e73deebc0
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/LVL_MATCH.unity
+    guid: 3ea540c347e9b854d83231f2677a3438
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/LVL_CHAR_SELECT.unity
+    guid: 159436224383f27459e9cc74727880ac
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/LVL_PODIUM.unity
+    guid: c54675a3f18ed3f418f3bbf51f114292
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/LVL_TUTORIAL.unity
+    guid: e4cf78ffdc1af1843803fb39661fef55
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 6f920fccc12ccb3489b7a10dc07af427, type: 2}

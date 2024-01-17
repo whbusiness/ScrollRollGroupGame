@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e0d7a7848b0ced40b3300d500fcea5e, type: 3}
+  m_Name: UISA_ScrollBacking
+  m_EditorClassIdentifier: 
+  m_sourceValue: {x: 0, y: 8500}
+  m_targetValue: {x: 0, y: 6500}
+  m_finishValue: {x: 0, y: 0}
+  m_duration: 1
+  m_fpsRate: 60
+  m_toggleOnStart: 0
+  m_status: 0
+  m_startTime: 0
+  m_endTime: 0

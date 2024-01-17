@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: f8f936cdf009810499cc71ba86b09b05
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_1280x720
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1622
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc72a11fbf87a94798f7673fb65499f
+      internalID: -682638285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Logo
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1075
+        width: 1004
+        height: 950
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf48fc00b764e14e8e1c45ea152bceb
+      internalID: -572813986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_ExitGame
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1474
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3acc11c465ce408908f87eecf6b6e
+      internalID: -1873995854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_AreYouSure
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1326
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c12581270749984889d6a251d4e041e
+      internalID: 700957337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Player1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1178
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5560d0c09847ae04b98cbd8f384e3cc1
+      internalID: -1904088700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Player2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1030
+        width: 433
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b94063b939f374187107c16e1415b5
+      internalID: 1016681093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Player3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 882
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08455ce622f534cb830059426306e6
+      internalID: -1487915672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Player4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 734
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996c57ea7b1b86b41984f6c22711dce6
+      internalID: 154042861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Menu
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 586
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be389e1a85eefb40bf0264ad130a267
+      internalID: -1051512546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Resume
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 438
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b885931f18d1345af5f25bf916ac33
+      internalID: -657205479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Back
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 290
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee79e822cea27142987a3d37e38d7d2
+      internalID: -1538446960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Confirm
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 142
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2e281433267b47bfda6d4cd1d56d8
+      internalID: -176217147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_1920x1080
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1770
+        width: 431
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbecfc5bad1f9a4ab9d49c312b5b3ad
+      internalID: 1627864071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Play
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1860
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eef4bca7ef3fa343aa17f68146bd429
+      internalID: 169082841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_GlobalPlay
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1712
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ae424433057604ba4d815de5eaec4b
+      internalID: -486814935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_LocalPlay
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1564
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5926b6582811cb40a26dfa58d0fc127
+      internalID: 538264796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Ready
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1416
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ad81c80ce64447baf5ab617c947d4
+      internalID: 1770936956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Character
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1268
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703bc9cdb47ca3643af98f9c4d49e484
+      internalID: -1512081917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Settings
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1120
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547e11ad6338fc449d072300deffea3
+      internalID: 457049181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_VideoSettings
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 972
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64281625aaa7af44c843b186722150c3
+      internalID: -64798369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_AudioSettings
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 824
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdcaa1b4869f024caf1adf493b9b0fa
+      internalID: 491465195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_ControlSettings
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 676
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679bb13096709348a826f73bd97879e
+      internalID: 840205685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Credits
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 528
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d466c65bb32d01488d4b76248a92538
+      internalID: 1486010897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Quit
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 380
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09cf1b17524c114c81288692c8389ea
+      internalID: 1992423712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_Yes
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 236
+        width: 432
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a69febcdcd78b24192132b818fb53ce
+      internalID: 1527654111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_No
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 88
+        width: 432
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d28f45075f92d4781290865e0265d7
+      internalID: 2023064571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_HostGame
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 838
+        width: 440
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df134ee424dda41a73997c69084d3a
+      internalID: -1972473065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BUTTONLOGOSHEET_FindGame
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 679
+        width: 441
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898fc2c78438b13438469ccd03e5065a
+      internalID: 703052711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_BUTTONLOGOSHEET_1280x720: -682638285
+      UI_BUTTONLOGOSHEET_1920x1080: 1627864071
+      UI_BUTTONLOGOSHEET_AreYouSure: 700957337
+      UI_BUTTONLOGOSHEET_AudioSettings: 491465195
+      UI_BUTTONLOGOSHEET_Back: -1538446960
+      UI_BUTTONLOGOSHEET_Character: -1512081917
+      UI_BUTTONLOGOSHEET_Confirm: -176217147
+      UI_BUTTONLOGOSHEET_ControlSettings: 840205685
+      UI_BUTTONLOGOSHEET_Credits: 1486010897
+      UI_BUTTONLOGOSHEET_ExitGame: -1873995854
+      UI_BUTTONLOGOSHEET_FindGame: 703052711
+      UI_BUTTONLOGOSHEET_GlobalPlay: -486814935
+      UI_BUTTONLOGOSHEET_HostGame: -1972473065
+      UI_BUTTONLOGOSHEET_LocalPlay: 538264796
+      UI_BUTTONLOGOSHEET_Menu: -1051512546
+      UI_BUTTONLOGOSHEET_No: 2023064571
+      UI_BUTTONLOGOSHEET_Play: 169082841
+      UI_BUTTONLOGOSHEET_Player1: -1904088700
+      UI_BUTTONLOGOSHEET_Player2: 1016681093
+      UI_BUTTONLOGOSHEET_Player3: -1487915672
+      UI_BUTTONLOGOSHEET_Player4: 154042861
+      UI_BUTTONLOGOSHEET_Quit: 1992423712
+      UI_BUTTONLOGOSHEET_Ready: 1770936956
+      UI_BUTTONLOGOSHEET_Resume: -657205479
+      UI_BUTTONLOGOSHEET_Settings: 457049181
+      UI_BUTTONLOGOSHEET_VideoSettings: -64798369
+      UI_BUTTONLOGOSHEET_Yes: 1527654111
+      UI_Logo: -572813986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

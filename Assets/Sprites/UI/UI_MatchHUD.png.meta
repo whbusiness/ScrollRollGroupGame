@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: f923f7660e829054f8700ca456bd7d36
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_MatchHUD_Staff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6026
+        width: 3158
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ab2f3d9a1e3240973b847efc9d1f7
+      internalID: 237397622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Heart
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 6616
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f911bd17dfda4cb68108c82e042eb
+      internalID: 573458004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801af595e03228b4486ece1b4600b6ad
+      internalID: 775267782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254efc201b64c184f9a2505eb62e6c8e
+      internalID: 1315928747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage2
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8075ea5c98003348b607eaf435ccd7e
+      internalID: 564814572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage3
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65968d93105b784da2f3b2f0dc8c923
+      internalID: 1388980413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage4
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e56ca373e95f0d478ff020c5fbdd55d
+      internalID: -1402840273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage5
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee7e67127cf9324cb31d2059410e5a3
+      internalID: 1657080292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage6
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9b72788df881346a05381e88709249
+      internalID: -2021857542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage7
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 5306
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b876d045c75234f8de27b51c19451a
+      internalID: -819396865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage8
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 5305
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90e13faf4a47340b7c244bbd6ac251
+      internalID: -770886676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage9
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 5304
+        width: 350
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb157f1da8e20ff49b63f6fc8a59a4ab
+      internalID: -72280060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Damage%
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 5952
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b6d41bf641d7c43a9a0c2741c28c54
+      internalID: -746248891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Hat
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4148
+        width: 1200
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035bcb300b554c42a901fd1df8b9e8a
+      internalID: 1267601660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_ElementFire
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 4165
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f154a6614c055864ca33ca50b462797c
+      internalID: -698642480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_ElementPoison
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 4188
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e485d9cd12c3e4dbc0a64899dcd3c4
+      internalID: -1804903751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Wizard
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3036
+        width: 1200
+        height: 942
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a474f35771d533f46b7f823507e94628
+      internalID: 409776459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_ElementElectric
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 3179
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db632a6d00ba84ca8ad4f173da4204
+      internalID: -1458499200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_ElementIce
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 3139
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203adffa8717d994eb1a13677024bc69
+      internalID: -1008732557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Time
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1833
+        width: 2244
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d2d1273df61f74cb93f525b515a080
+      internalID: -477930842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Biome
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1011
+        width: 1519
+        height: 1616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db060d5068aed1b499d3a437a9d8dd93
+      internalID: -477368808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1376
+        width: 189
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a928b82f802d446825ad172b118fa4
+      internalID: -1577424724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1376
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223e026269e16f46950579f183e0e9c
+      internalID: -380720674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1376
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340d65e1fee3924e989b5b3f3f4ab88
+      internalID: -841383846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer3
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1376
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195be0b6b7764d4988e190d3a00a3d0
+      internalID: 128062084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer4
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1376
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba28337077a94e7429338530e1c7f93f
+      internalID: -1548104452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer5
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1376
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581658ae956660348b9743c9c03f5aa4
+      internalID: -1089293684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 948
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f7c39e43150af44b5bdb09ba46880f
+      internalID: -787543318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 948
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc8b7a6497efa84489c0af6485538bc
+      internalID: 229424650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer8
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 948
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299824967f97cba4385e25bb702f4fa0
+      internalID: -1511928395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 948
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d019c15001a0448645a9595bb669c
+      internalID: 780568631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_Timer0
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 948
+        width: 292
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda656f3b8f7db2468993573b1a11415
+      internalID: 470701447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_BiomeFire
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 45
+        width: 805
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693822f39cf61a641967b8c324aa701e
+      internalID: 847193968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_BiomePoison
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 42
+        width: 805
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adda7636d70934a4aaab093f94118ef1
+      internalID: -560304068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_BiomeIce
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 42
+        width: 805
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af9301afaa4ece4fb47edd552d32d05
+      internalID: -2066236980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_BiomeGrass
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 43
+        width: 804
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1086821fa2644e91ac2ca1acdd271
+      internalID: -1001617027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MatchHUD_18
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 43
+        width: 805
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63468d6a66471439220330b8ddc86b
+      internalID: 1787780125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1216352db88b0341a2d0b25b8c454c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_MatchHUD_0: 2024052945
+      UI_MatchHUD_18: 1787780125
+      UI_MatchHUD_19: -369855249
+      UI_MatchHUD_20: -496272517
+      UI_MatchHUD_21: 646430549
+      UI_MatchHUD_Biome: -477368808
+      UI_MatchHUD_BiomeFire: 847193968
+      UI_MatchHUD_BiomeGrass: -1001617027
+      UI_MatchHUD_BiomeIce: -109771178
+      UI_MatchHUD_BiomePoison: -560304068
+      UI_MatchHUD_Damage%: -746248891
+      UI_MatchHUD_Damage0: 775267782
+      UI_MatchHUD_Damage1: 1315928747
+      UI_MatchHUD_Damage2: 564814572
+      UI_MatchHUD_Damage3: 1388980413
+      UI_MatchHUD_Damage4: -1402840273
+      UI_MatchHUD_Damage5: 1657080292
+      UI_MatchHUD_Damage6: -2021857542
+      UI_MatchHUD_Damage7: -819396865
+      UI_MatchHUD_Damage8: -770886676
+      UI_MatchHUD_Damage9: -72280060
+      UI_MatchHUD_ElementElectric: -1458499200
+      UI_MatchHUD_ElementFire: -698642480
+      UI_MatchHUD_ElementIce: -1008732557
+      UI_MatchHUD_ElementPoison: -1804903751
+      UI_MatchHUD_Hat: 1267601660
+      UI_MatchHUD_Heart: 573458004
+      UI_MatchHUD_Staff: 237397622
+      UI_MatchHUD_Time: -477930842
+      UI_MatchHUD_Timer: -1577424724
+      UI_MatchHUD_Timer0: 470701447
+      UI_MatchHUD_Timer1: -380720674
+      UI_MatchHUD_Timer2: -841383846
+      UI_MatchHUD_Timer3: 128062084
+      UI_MatchHUD_Timer4: -1548104452
+      UI_MatchHUD_Timer5: -1089293684
+      UI_MatchHUD_Timer6: -787543318
+      UI_MatchHUD_Timer7: 229424650
+      UI_MatchHUD_Timer8: -1511928395
+      UI_MatchHUD_Timer9: -2144918110
+      UI_MatchHUD_Wizard: 409776459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
